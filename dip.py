@@ -1,2 +1,2 @@
-import atom-xd
-atom-xd.__seaX__().__menuX__()
+import atom_xd
+atom_xd.__seaX__().__menuX__()
